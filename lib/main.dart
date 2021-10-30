@@ -29,9 +29,9 @@ class MyHomePage extends StatefulWidget {
 }
 
 // number of rows
-int columns = 38;
+int columns = 23;
 // number of columns
-int rows = 23;
+int rows = 50;
 
 class _MyHomePageState extends State<MyHomePage> {
   // the complete grid
