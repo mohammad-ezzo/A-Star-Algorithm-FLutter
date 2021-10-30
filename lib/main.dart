@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
-// number of rows
+// number of rows , change it according to your screen size
 int columns = 23;
 // number of columns
 int rows = 50;
