@@ -1,3 +1,3 @@
 # a_star
 
-(/screenshots/screen.gif?raw=true)
+![Alt text](/screenshots/screen.gif?raw=true)
